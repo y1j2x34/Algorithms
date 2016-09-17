@@ -1,0 +1,12 @@
+{
+    "curly" : true,
+    "laxcomma" : true,
+    "eqeqeq" : true,
+    "immed" : true,
+    "newcap" : false,
+    "noarg" : true,
+    "sub" : true,
+    "undef" : true,
+    "boss" : true,
+    "eqnull" : true
+}
