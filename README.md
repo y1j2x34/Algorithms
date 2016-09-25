@@ -82,15 +82,15 @@
     ```
 ### 海量数据处理
 - Hash映射/分而治之
+- simhash算法
+- 外排序
+- MapReduce
 - Bitmap
 - Bloom filter(布隆过滤器)
 - 双层桶划分
 - Trie树
 - 数据库索引
 - 倒排索引(Inverted Index)
-- 外排序
-- simhash算法
-- 分布处理之Mapreduce
 <!--
 ## 使用
 1. clone 或者下载该项目
